@@ -23,7 +23,7 @@ Decentralized systems operate without a middleman or central authority. Transact
 
 Decentralized systems, like those facilitated by blockchain technology, promote transparency and autonomy by removing intermediaries and central points of control, fostering a more direct and efficient way of exchanging value and information.
 
-![Systems](https://www.researchgate.net/profile/Emily-Webster-14/publication/335749445/figure/fig1/AS:801943819665408@1568209714121/A-Centralized-Conventional-Versus-a-Decentralized-Possible-with-Blockchain-Technology.ppm)
+![Systems](https://berty.tech/blog/decentralized-distributed-centralized/decentralized_hu2a947e948837dda4cae19249962e6048_1303145_1312x0_resize_q95_mitchellnetravali.jpeg)
 
 ### What is the Blockchain?
 
@@ -271,5 +271,3 @@ Proof of Stake (PoS) operates based on the amount of cryptocurrency staked by no
 - **📈 Rewards:** Earned rewards include transaction fees and newly minted ETH.
 
 Proof of Stake aims to ensure blockchain security and efficiency by aligning incentives with the amount and age of ETH staked, promoting a sustainable and decentralized consensus mechanism.
-
-i want to upload them to github using same formatting etc 
