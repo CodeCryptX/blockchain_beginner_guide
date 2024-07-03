@@ -23,13 +23,13 @@ Decentralized systems operate without a middleman or central authority. Transact
 
 Decentralized systems, like those facilitated by blockchain technology, promote transparency and autonomy by removing intermediaries and central points of control, fostering a more direct and efficient way of exchanging value and information.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/17b1c0ab-78b5-4eb9-aaf6-69860caef471/d522fc56-b803-47c6-a91a-2b278dafe909/Untitled.png)
+![Systems](https://www.researchgate.net/profile/Emily-Webster-14/publication/335749445/figure/fig1/AS:801943819665408@1568209714121/A-Centralized-Conventional-Versus-a-Decentralized-Possible-with-Blockchain-Technology.ppm)
 
 ### What is the Blockchain?
 
 A decentralized computation and information-sharing platform that enables multiple authoritative domains, which do not trust each other, to cooperate, coordinate, and collaborate in rational decision-making.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/17b1c0ab-78b5-4eb9-aaf6-69860caef471/31674fc3-3ace-4d02-932d-3850d2a8dcde/Untitled.png)
+![Blockchain](https://www.thestreet.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cq_auto:good%2Cw_1200/MTkwMDY1MDA1NDgyMjIzMjYy/blockchain-top-image.png)
 
 ### Working of the Blockchain
 
@@ -39,7 +39,7 @@ To make a transaction, people must be on the same network. Let's take Bitcoin as
 2. Once validated, the transaction is added to the ledger (we will go into this later) and stored in a block.
 3. Finally, that block is added to the blockchain using consensus.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/17b1c0ab-78b5-4eb9-aaf6-69860caef471/3ee24160-1a85-45ca-925e-901a8834967f/Untitled.png)
+![Working of Blockchain](https://media.geeksforgeeks.org/wp-content/uploads/20220518004235/BlockchainF1.jpg)
 
 ## Components of the blockchain
 
@@ -213,7 +213,7 @@ For transactions \( T1, T2, T3, T4 \):
 
 The Merkle root ensures the security and integrity of blockchain transactions by condensing them into a single, verifiable hash.
 
-![Merkle tree](https://prod-files-secure.s3.us-west-2.amazonaws.com/17b1c0ab-78b5-4eb9-aaf6-69860caef471/098e59c8-766f-4964-b8d8-5956152ea969/Untitled.png)
+![Merkle tree](https://www.investopedia.com/thmb/1IGah2OLWcvEboCYQdaQR9_qBXo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/MerkleTree-5590a1ca4e904b6e8e60b6257751e840.png)
 
 ## Consensus
 
