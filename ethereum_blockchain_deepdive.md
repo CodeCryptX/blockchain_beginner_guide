@@ -29,6 +29,7 @@ While Bitcoin uses **Proof of Work (PoW)**—a energy-intensive mining process�
 - **Energy Efficiency**: PoS slashes energy use by ~99.95%, making Ethereum greener.
 
 💡 **Key Difference**: Bitcoin prioritizes security through computation; Ethereum emphasizes scalability and sustainability.
+
 ![1738963130899](https://github.com/user-attachments/assets/ef6fe80d-cd09-4021-b2ed-d75a78473a58)
 
 ---
@@ -38,6 +39,7 @@ While Bitcoin uses **Proof of Work (PoW)**—a energy-intensive mining process�
 ### 1. **Genesis Block**
 
 The **first block** in Ethereum’s blockchain (mined July 30, 2015). It initializes the network and sets the rules for subsequent blocks.
+
 ![1738963238881](https://github.com/user-attachments/assets/39082018-b3cb-49a3-9e66-3b5e7eff4a89)
 ### 2. **World State**
 
@@ -48,6 +50,7 @@ A global database storing every account’s:
 - **Contract Data** (code, storage, and code hash).
 
 It’s updated with every transaction, acting as Ethereum’s “current snapshot.”
+
 ![1738963347227](https://github.com/user-attachments/assets/3d76b442-ead0-496d-8515-4dc2691f3402)
 ### 3. **Ethereum State Machine**
 
@@ -95,6 +98,7 @@ The EVM is a Turing-complete virtual machine that executes smart contracts. Let�
 2. **Validation**: Check sender’s balance, nonce, and gas.
 3. **Execution**: EVM runs contract code, updates the **world state**, and deducts gas.
 4. **Block Finalization**: Validated transactions are added to the blockchain.
+   
 ![Uploading 1738963892722.png…]()
 ---
 
